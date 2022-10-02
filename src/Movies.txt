@@ -1,0 +1,42 @@
+The GodFather	2000	PG-13
+Good Luck Chuck	2009	PG-13
+Good Fellas	2001	PG
+Star Wars	2001	G
+Indiana Jones	1992	PG-13
+Bridget Jones	2000	PG-13
+Step Brothers	1994	PG-13
+Mama Mia	2001	G
+Tron	1999	G
+The Last Dragon	2001	PG
+The Golden Child	2002	R
+Shaft	1979	R
+Super Fly	1980	G
+Big Trouble in Little China	2010	G
+Blue Streak	2009	PG
+Glory Road	1984	PG
+Remember The Titans	1988	PG-13
+Up	1996	PG-13
+Aladdin	1987	G
+Cinderella	1989	PG-13
+House Party	2001	G
+Office Space	1989	PG
+Dirty Harry	2008	R
+Monsters Inc	2005	PG
+Space Cowboys	2000	R
+Planet 51	1982	PG
+Vanilla Sky	1997	PG
+Batman	1994	R
+Superman	1998	PG-13
+The God Father	2000	PG
+Good Luck Chuck	2009	R
+Good Fellas	2001	G
+Indiana Jones	1992	R
+Step Brothers	1994	R
+Mama Mia	2001	PG
+Tron	1999	PG
+The Last Dragon	2001	G
+The Golden Child	2002	PG
+Blue Streak	2009	R
+Remember The Titans	1988	G
+Aladdin	1987	R
+Cinderella	1989	R
